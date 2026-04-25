@@ -101,7 +101,7 @@ The larger the prefix (e.g. `/30` vs `/24`), the smaller the subnet and the fewe
 
 ### References
 
-- [Hack The Box — Introduction to Networking](https://academy.hackthebox.com/module/details/34) — comprehensive networking module covering OSI model, IP addressing, subnetting, and routing
+- [Hack The Box — Introduction to Networking](https://academy.hackthebox.com/app/module/289) — comprehensive networking module covering OSI model, IP addressing, subnetting, and routing
 - [Wikipedia — OSI Model](https://en.wikipedia.org/wiki/OSI_model) — full overview of the 7-layer model
 - [Wikipedia — Subnetwork](https://en.wikipedia.org/wiki/Subnetwork) — subnetting explained
 - [Wikipedia — Routing Table](https://en.wikipedia.org/wiki/Routing_table) — how routing tables work
